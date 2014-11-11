@@ -1,0 +1,11 @@
+{
+  "name": "node-package-tracking",
+  "version": "0.0.1",
+  "author": "Chu Shao",
+  "dependencies": {
+    "xml2js": "0.4.x"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
